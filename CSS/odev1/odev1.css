@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color: rgb(173, 32, 32);
+}
+
+h2{
+    color: rgb(143, 7, 143);
+}
+
+h3{
+    color: rgb(187, 124, 8);
+}
+
+ol,ul{
+    list-style-position: inside;
+}
