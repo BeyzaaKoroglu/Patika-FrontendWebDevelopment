@@ -1,0 +1,44 @@
+#container{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+#logo{
+    margin: auto;
+    width: 351px;
+    height: 113px;
+}
+
+#search{
+    background-color:#EEEEEE;
+    height: 64.4px;
+}
+
+table{
+    text-align: center;
+    width: 100%;
+}
+
+ul{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.font80{
+    font-size: 80%;
+}
+
+#column1{
+    width:37%;
+    background-color: #7EE5DA;
+}
+
+#column2{
+    width: 20%;
+    background-color: #70CCC2;
+}
+
+#column3{
+    background-color: #62B3AA;
+}
