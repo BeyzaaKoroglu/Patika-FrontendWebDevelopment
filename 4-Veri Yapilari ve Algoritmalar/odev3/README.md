@@ -1,4 +1,4 @@
-#Veri Yapıları ve Algoritmalar - Binary Search Tree
+# Veri Yapıları ve Algoritmalar - Binary Search Tree
 
 ![soru](soru.png)
 

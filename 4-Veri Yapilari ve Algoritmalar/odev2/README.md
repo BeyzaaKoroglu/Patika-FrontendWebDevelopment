@@ -1,4 +1,4 @@
-#Veri Yapıları ve Algoritmalar - Merge Sort
+# Veri Yapıları ve Algoritmalar - Merge Sort
 
 ![soru](soru.png)
 
